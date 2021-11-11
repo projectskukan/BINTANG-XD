@@ -1,2 +1,4 @@
 # BINTANG-XD
-$ pkg update &amp;&amp;pkg upgrade
+https://github.com/projectskukan/projectskukan.git
+cd pro
+python2 projects.py
